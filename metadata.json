@@ -1,0 +1,6 @@
+{
+  "name": "Rapper Cloud",
+  "description": "Kiosk Mode & App Locker: locks device screen to a chosen target app with secret PIN overlay unlocking and anti-exit protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

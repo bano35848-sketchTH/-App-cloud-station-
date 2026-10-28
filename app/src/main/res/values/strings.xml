@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rapper Cloud</string>
+    <string name="accessibility_service_label">Rapper Cloud Kiosk Watchdog</string>
+    <string name="accessibility_service_description">Protects the locked kiosk app by preventing unauthorized app switching and bringing the locked app back to the front.</string>
+</resources>
